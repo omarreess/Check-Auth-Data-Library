@@ -4,7 +4,7 @@ Android Library for Checking Authentication Data before use it .
 ## Features 
 
  - Simple Library for Checking Data got from user in Right form or not before Using it in authentication Requests.
- - Library Tested using Unit test expexting worst senorio cases CheckAuthDataTest Class in Test Package.
+ - Library Tested using Unit test expecting worst scenario  cases CheckAuthDataTest Class in Test Package.
 ## Installation
 
 
